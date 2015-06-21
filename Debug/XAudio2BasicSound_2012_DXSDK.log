@@ -1,0 +1,16 @@
+﻿已經開始建置於 2015/6/1 上午 12:30:01。
+     1>節點 2 (ClCompile 目標) 上的專案 "C:\Users\momo\Desktop\XAudio2BasicSound\XAudio2BasicSound_2012_DXSDK.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (XAudio2BasicSound.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\Common /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _CONSOLE /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  XAudio2BasicSound.cpp
+         XAudio2BasicSound.cpp
+     1>c:\users\momo\desktop\xaudio2basicsound\xaudio2basicsound.cpp(274): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>c:\users\momo\desktop\xaudio2basicsound\xaudio2basicsound.cpp(288): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>c:\users\momo\desktop\xaudio2basicsound\xaudio2basicsound.cpp(295): warning C4244: '引數' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>c:\users\momo\desktop\xaudio2basicsound\xaudio2basicsound.cpp(300): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>c:\users\momo\desktop\xaudio2basicsound\xaudio2basicsound.cpp(306): warning C4244: '=' : 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+     1>專案 "C:\Users\momo\Desktop\XAudio2BasicSound\XAudio2BasicSound_2012_DXSDK.vcxproj" (ClCompile 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.47

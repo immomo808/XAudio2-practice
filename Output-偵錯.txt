@@ -1,0 +1,34 @@
+﻿'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Users\momo\Desktop\XAudio2BasicSound\Debug\XAudio2BasicSoundDX.exe'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\ntdll.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\kernel32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\KernelBase.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\user32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\gdi32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\lpk.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\usp10.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\msvcrt.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\advapi32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\sechost.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\sspicli.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\cryptbase.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\ole32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\msvcr120d.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\imm32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\msctf.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\clbcatq.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\oleaut32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\XAudioD2_7.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\winmm.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\MMDevAPI.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\propsys.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\setupapi.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\cfgmgr32.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\devobj.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\shlwapi.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\AudioSes.dll'。已載入符號。
+'XAudio2BasicSoundDX.exe' (Win32):  已載入 'C:\Windows\SysWOW64\avrt.dll'。已載入符號。
+0xa78 執行緒以返回碼 0 (0x0) 結束。
+0xd64 執行緒以返回碼 0 (0x0) 結束。
+0x264 執行緒以返回碼 0 (0x0) 結束。
+'[3536] XAudio2BasicSoundDX.exe' 程式以返回碼 0 (0x0) 結束。
